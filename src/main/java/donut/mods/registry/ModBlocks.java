@@ -20,6 +20,7 @@ public class ModBlocks {
                     .mapColor(MapColor.GRAY)
                     .strength(1.5f)
                     .nonOpaque()
+                    .requiresTool()
     );
 
     public static void register() {
