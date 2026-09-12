@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "donuts_particles:block/particle_emitter" }
+  }
+}

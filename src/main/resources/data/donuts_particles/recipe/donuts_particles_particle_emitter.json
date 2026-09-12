@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " / ",
+    "#N#",
+    " # "
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:redstone_torch"
+    },
+    "#": {
+      "item": "minecraft:sweet_berries"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    }
+  },
+  "result": {
+    "id": "donuts_particles:particle_emitter"
+  }
+}
